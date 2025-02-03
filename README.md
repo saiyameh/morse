@@ -1,4 +1,4 @@
-# morse code translator with raspberry pi pico
+# TARS
 
 **about:** a minimalist project that converts typed text into morse code
 
