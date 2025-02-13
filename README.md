@@ -1,5 +1,5 @@
-**TARS**
-**(FOR NEW VERSIONS CHECK RELEASES)**<br>
+**(check [v2.0](https://github.com/saiyameh/morse/releases/tag/v2.0))**<br>
+
 **about:** a minimalist project that converts typed text into morse code<br>
 **hardware:** raspberry pi pico, 16x2 I2C LCD, jumper wires<br>
 **setup(v1.0):** <br>
